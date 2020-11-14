@@ -38,4 +38,4 @@ Model|BOW|TF-IDF
 KNN|63.1%|79.1%
 Naive-Bayes|84.8%|88.2%
 Logistic regression| 88%| 88.75%
-SVM|83.3%|87.2%
+SVM|83.6%|85.3%
