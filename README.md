@@ -40,3 +40,4 @@ Naive-Bayes|84.8%|88.2%
 Logistic regression| 88%| 88.75%
 SVM|83.6%|85.3%
 Decision Tree| 70.6%|71%
+Random Forest|82.83%|82.86%
